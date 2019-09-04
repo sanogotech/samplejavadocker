@@ -4,6 +4,8 @@
 - Virtual Machines vs. Docker
 - Introduction to Dockerfiles, images and containers
    * Docketrfiles --"build" --to- "image" --"run"-to  "container"
+   ![Dockerfile to Container](dockerfiletocontainer.png)
+
 - The Docker Hub
 - Writing a Dockerfile
 - Building an image
